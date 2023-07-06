@@ -1,0 +1,50 @@
+footer{
+    font: normal 15pt italic;
+    text-align: center;
+    margin-top:1.5em;
+}
+
+h1{
+    font: normal 30pt arial;
+    text-align: center;
+    margin-top:1em;
+}
+h2{
+    font: normal 17pt arial;
+}
+
+body{
+    background-color: #e4e4e4;
+}
+
+.container{
+    background-color: #fff;
+    width:40em;
+    height:23em;
+    margin:auto;
+    box-shadow: 5px 8px #8181816b;
+    border-radius: 2%;
+    overflow: auto;
+   
+}
+
+.divs_inputs{
+    width:80%;
+    height:2em;
+    margin-left:4em;
+}
+
+.mae{
+    margin-top: 2em;
+}
+
+.espaco{
+    margin-left:1em;
+}
+
+.botao{
+    width:80%;
+    height:2em;
+    margin-left:3.2em;
+    margin-top:1em;
+}
